@@ -2,7 +2,7 @@
 Configure and monitor container-based apps to a central location
 
 This is the code repository for [
-Creating Continuous Deployment Pipeline for Cloud Platforms [Video]](https://www.packtpub.com/, published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
+Creating Continuous Deployment Pipeline for Cloud Platforms [Video]](https://www.packtpub.com/), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
 Continuous Delivery is a process whereby code changes are automatically built, tested, and prepared for release to production. This video course starts by showing you how to ship logs to a central location for easier viewing and configure monitoring services to check the health of your containers and services with AWS, Azure, and Google. You will begin by designing toolsets and components which will make up the Continuous Deployment pipeline of the future
 You will learn about logging services such as AWS, Google, and Azure. You will also learn why centralized logging is important and how container logging differs from logging from physical servers. You will then master monitoring containers and see some examples involving monitoring dashboards that will be installed in this course.
