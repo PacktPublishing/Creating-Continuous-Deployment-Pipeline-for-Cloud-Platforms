@@ -1,4 +1,4 @@
-# Creating-Continuous-Deployment-Pipeline-for-Cloud-Platforms
+# Creating Continuous Deployment Pipeline for Cloud Platforms
 Configure and monitor container-based apps to a central location
 
 This is the code repository for [
